@@ -1,3 +1,7 @@
+## Requeriments
+
+- NODE v20 ([install nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#installing-and-updating))
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
